@@ -9,5 +9,5 @@
 
 - 📫 How to reach me **monikashakyaofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yAjPHHTgX7FFWyCG8LPRWo7uBzBEHYbm/view?usp=share_link](https://drive.google.com/file/d/1yAjPHHTgX7FFWyCG8LPRWo7uBzBEHYbm/view?usp=share_link)
+
 
