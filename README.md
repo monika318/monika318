@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/coding-programmer-workspace-with-cactus-coffee-book-vector-clip-art-illustration_138676-87.jpg">
 - 🌱 I’m currently learning **ReactJs and NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://monika318.github.io/MySite/](https://monika318.github.io/MySite/)
 
 - 💬 Ask me about **MERN**
 
